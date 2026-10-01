@@ -3,7 +3,7 @@ body {
     font-family: sans-serif, Arial, Helvetica, ;
 }
 
-.business {
+.business-card {
     width: 300px;
-    
+    background-color: blueviolet;
 }
