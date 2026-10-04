@@ -18,3 +18,6 @@
     color: blueviolet;
 }
 
+.sub-item-link:active {
+    color: green;
+}
