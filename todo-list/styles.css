@@ -13,3 +13,8 @@
 .sub-item-link:hover {
     color: brown;
 }
+
+.sub-item-link:focus {
+    color: blueviolet;
+}
+
