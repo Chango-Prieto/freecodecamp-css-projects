@@ -6,3 +6,6 @@
     color: aquamarine;
 }
 
+.sub-item-link:visited {
+    color: purple;
+}
