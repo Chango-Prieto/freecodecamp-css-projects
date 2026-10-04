@@ -9,3 +9,7 @@
 .sub-item-link:visited {
     color: purple;
 }
+
+.sub-item-link:hover {
+    color: brown;
+}
