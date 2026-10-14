@@ -20,5 +20,10 @@ body {
 
 .post-title {
     color: yellowgreen;
-    
+    margin: 25px;
+}
+
+.post-excerpt {
+    color: darkolivegreen;
+
 }
