@@ -6,3 +6,6 @@ body {
     min-height: calc(100vh - 100px);
 }
 
+hr, section {
+    width: 100%;
+}
